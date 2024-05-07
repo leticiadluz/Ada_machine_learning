@@ -13,7 +13,7 @@ variáveis mais relevantes para o modelo com base na literatura médica e nos te
 
 **O notebook com a Análise exploratória de dados pode ser acessado [aqui](https://github.com/leticiadluz/Ada_machine_learning/blob/main/EDA.ipynb)**
 
-**O dataset limpo após a análise exploratória e remoção de variáveis não importantes, pode ser acessado [aqui(https://github.com/leticiadluz/Ada_machine_learning/blob/main/df_IAM_risco_final.csv)** 
+**O dataset limpo após a análise exploratória e remoção de variáveis não importantes, pode ser acessado [aqui](https://github.com/leticiadluz/Ada_machine_learning/blob/main/df_IAM_risco_final.csv)** 
 
 Construímos seis modelos de Machine Learning utilizando três estimadores diferentes: regressão logística, KNN e Random Forest. Realizamos pré-processamento das variáveis, escolhendo as mais adequadas para cada estimador, além de otimização de hiperparâmetros e seleção de variáveis. A métrica escolhida para a avaliação do modelo foi o recall, pois em um problema como o risco de ataque cardíaco, priorizamos identificar todos os verdadeiros positivos e minimizar os falsos negativos.
 Em nenhum dos modelos gerados conseguimos um recall superior a 0.60, mesmo após várias tentativas de otimização. 
