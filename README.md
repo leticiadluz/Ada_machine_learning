@@ -11,7 +11,7 @@ Isso representa um problema significativo na construção de modelos na área da
 mesmo dataset para desenvolver os modelos de machine learning. Para as variáveis que não mostraram relação clara, realizamos testes de hipóteses e, ao final, selecionamos as 
 variáveis mais relevantes para o modelo com base na literatura médica e nos testes realizados.  
 
-**O notebook com a Análise exploratória de dados pode ser acessado [aqui]**(https://github.com/leticiadluz/Ada_machine_learning/blob/main/EDA.ipynb)
+**O notebook com a Análise exploratória de dados pode ser acessado [aqui](https://github.com/leticiadluz/Ada_machine_learning/blob/main/EDA.ipynb)**
 
 **O dataset limpo após a análise exploratória e remoção de variáveis não importantes, pode ser acessado [aqui]**(https://github.com/leticiadluz/Ada_machine_learning/blob/main/df_IAM_risco_final.csv)  
 
