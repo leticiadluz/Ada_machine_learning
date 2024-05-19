@@ -1,9 +1,9 @@
-# Projetos Machine Learning ADA Tech
+# Projeto Machine Learning I ADA Tech
 
-**No repositório, você encontrará os projetos dos módulos Machine Learning I e Machine Learning II do curso de Data Science da AdaTech do programa Santander Coders.**
+**No repositório, você encontrará o projeto do módulo Machine Learning I do curso de Data Science da AdaTech do programa Santander Coders.**
 
 ### Machine Learning I
-O primeiro projeto tem como objetivo desenvolver um modelo preditivo capaz de antecipar o risco de um indivíduo sofrer um ataque cardíaco. 
+O projeto tem como objetivo desenvolver um modelo preditivo capaz de antecipar o risco de um indivíduo sofrer um ataque cardíaco. 
 Para o desenvolvimento do projeto, utilizamos o dataset Heart Attack Risk Prediction, disponível no site do [Kaggle](https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset). 
 Este dataset foi criado a partir de dados sintéticos gerados por inteligência artificial. Inicialmente, realizamos uma análise exploratória dos dados e, 
 à medida que avançamos na análise, percebemos que variáveis bem estabelecidas na literatura médica como fatores de risco para Infarto Agudo do Miocárdio, como obesidade, diabetes e tabagismo, não tinham relação com o target. 
