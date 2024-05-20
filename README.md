@@ -19,6 +19,10 @@ Construímos seis modelos de Machine Learning utilizando três estimadores difer
 Em nenhum dos modelos gerados conseguimos um recall superior a 0.60, mesmo após várias tentativas de otimização. 
 Ao revisitar a seção de discussão no Kaggle, outros usuários relataram o mesmo problema, indicando que não é possível gerar um bom modelo com um dataset que não reflete a realidade. 
 
+**O notebook com os modelos de Machine Learning pode ser acessado [aqui](https://github.com/leticiadluz/Ada_machine_learning/blob/main/ML.ipynb)**
+
+### Devido a uma falha de atenção inicial, selecionamos um conjunto de dados que não representa a realidade e não demonstra correlação entre as variáveis preditoras e o target (variáveis já bem estabelecidas na literatura médica como fatores de risco para IAM não apresentavam relação com o risco de ter um infarto), uma vez que o dataset é sintético. Isso inviabiliza a implementação do modelo em produção. Portanto, seria necessário recomeçar a modelagem utilizando dados mais robustos e confiáveis.
+
 ## Ferramentas utilizadas
 
 * Google Colab
@@ -27,7 +31,4 @@ Ao revisitar a seção de discussão no Kaggle, outros usuários relataram o mes
 
 * Python
 
-**O notebook com os modelos de Machine Learning pode ser acessado [aqui](https://github.com/leticiadluz/Ada_machine_learning/blob/main/ML.ipynb)**
-
-### Devido a uma falha de atenção inicial, selecionamos um conjunto de dados que não representa a realidade e não demonstra correlação entre as variáveis preditoras e o target (variáveis já bem estabelecidas na literatura médica como fatores de risco para IAM não apresentavam relação com o risco de ter um infarto), uma vez que o dataset é sintético. Isso inviabiliza a implementação do modelo em produção. Portanto, seria necessário recomeçar a modelagem utilizando dados mais robustos e confiáveis.
 
